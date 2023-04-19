@@ -1,4 +1,4 @@
-contract Meta is {
+contract Meta {
     
     address owner;
 

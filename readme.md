@@ -1,6 +1,6 @@
 # MetaFaucet 
 
-Introducing Metafaucet, a new type of testnet token faucet. To support developers who don't have test tokens for testing onchain stuff.<br>
+Introducing a new type of testnet token faucet. To support developers who don't have test tokens for testing onchain stuff.<br>
 Thanks to [ERC4337(Account Abstraction)](https://eips.ethereum.org/EIPS/eip-4337) :)  <br>
 __Metafaucet uses the SmartAccount as the token reserves and supplies the gas fees to the transaction the developer wants to make.__
 
